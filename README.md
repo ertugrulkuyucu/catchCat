@@ -1,4 +1,4 @@
-# catchCat
+# Catch Cat
 Kediyi yakala oyunu Android Studio'da yazılmıştır. Oyun, Atıl Samancıoğlu'nun Android Mobil Uygulama Kursu: Kotlin & Java kursu kapsamında yazılmıştır. 
 
 ## Oyunun Amacı
